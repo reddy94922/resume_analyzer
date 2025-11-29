@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+.env
+.streamlit/secrets.toml
+vector_store.faiss/
+vector_store_meta.pkl

@@ -1,0 +1,7 @@
+
+We seek a Python backend engineer with:
+- 3+ years Python experience
+- Flask or FastAPI
+- REST API development
+- Cloud deployment (AWS preferred)
+- Microservices architecture

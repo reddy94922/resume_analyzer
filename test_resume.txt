@@ -1,0 +1,13 @@
+
+John Doe
+Senior Python Developer
+john@example.com | linkedin.com/in/johndoe
+
+EXPERIENCE:
+- 5 years backend development with Python
+- Flask: Built REST APIs for e-commerce platform
+- FastAPI: Developed microservices for data processing
+- AWS: Deployed on EC2, ECS, Lambda
+
+SKILLS:
+Python, Flask, FastAPI, Docker, Kubernetes, PostgreSQL, Redis, AWS
